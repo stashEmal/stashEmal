@@ -26,8 +26,8 @@
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/stashEmal/clihackbox">clihackbox</a></td>
-        <td>A hacking tool box including useful tools</td>
+        <td><a href="https://github.com/stashEmal/cli-hackbox">clihackbox</a></td>
+        <td>A collection of powerful Python-based recon tools for ethical hacking and cybersecurity</td>
 </table>
 
 ---
