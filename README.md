@@ -19,6 +19,19 @@
 
 ---
 
+### 🕸️ Projects
+<table border="1">
+    <tr>
+        <th>Repository Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/stashEmal/clihackbox">clihackbox</a></td>
+        <td>A hacking tool box including useful tools</td>
+</table>
+
+---
+
 ## 📚 Learning Journey
 - 🚀 Mastering **Python**
 - 🕸️ Practicing web hacking & bug bounty skills
