@@ -22,7 +22,6 @@
 ## 📚 Learning Journey
 - 🚀 Mastering **Python**
 - 🕸️ Practicing web hacking & bug bounty skills
-- 🧠 Slowly sharpening pattern recognition with trading on the side
 
 ---
 
@@ -33,5 +32,5 @@
 
 ---
 
-> *"Focus on consistency, not motivation."*
+> *"Silence builds empires."*
 
